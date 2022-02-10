@@ -7,6 +7,7 @@ import Columns from "@/components/Columns.vue";
 
 <template>
   <main>
+    <Hero />
     <InfoTiles />
     <Columns />
     <Hero />

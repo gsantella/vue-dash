@@ -7,7 +7,6 @@ import NavBar from "@/components/NavBar.vue";
 <template>
 
   <NavBar />
-  <NavBar />
 
   <transition name="fade" mode="in-out">
        <RouterView style="margin-top: 70px" />

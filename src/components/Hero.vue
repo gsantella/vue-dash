@@ -1,4 +1,5 @@
 <template>
+<div class="container">
     <section class="hero is-info welcome is-small">
         <div class="hero-body">
             <div class="container">
@@ -11,4 +12,5 @@
             </div>
         </div>
     </section>
+</div>
 </template>

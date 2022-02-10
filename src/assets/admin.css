@@ -8,9 +8,9 @@ html, body {
   nav.navbar {
     border-top: 4px solid #276cda;
     margin-bottom: 1rem;
-    /*position: fixed; /* gdone: Set the navbar to fixed position */
-    /*top: 0; /* gdone: Position the navbar at the top of the page */
-    /*width: 100%; /* gdone: Full width */
+    position: fixed; /* gdone: Set the navbar to fixed position */
+    top: 0; /* gdone: Position the navbar at the top of the page */
+    width: 100%; /* gdone: Full width */
     /* todo: add maring-top to other main content so menu doesn't overlap */
   }
   .navbar-item.brand-text {
@@ -74,8 +74,6 @@ html, body {
     font-size: 14px;
     font-weight: 700;
     color: #8F99A3;
-  }
-  .card-footer-item:hover {
   }
   .card-table .table {
     margin-bottom: 0;

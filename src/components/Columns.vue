@@ -1,5 +1,5 @@
 <template>
-    
+<div class="container">
 <div class="columns">
         <div class="column is-6">
             <div class="card events-card">
@@ -124,5 +124,5 @@
             </div>
         </div>
     </div>
-
+</div> 
 </template>

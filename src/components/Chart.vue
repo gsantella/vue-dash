@@ -27,7 +27,5 @@ export default defineComponent({
 
 
 <template>
-    <h1>Chart Below Here!</h1>
     <DoughnutChart :chartData="testData" />
-    <h1>Chart Above Here!</h1>
 </template>

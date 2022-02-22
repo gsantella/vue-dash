@@ -1,4 +1,9 @@
+<script>
+
+</script>
+
 <template>
+
 <div class="container">
     <section class="hero is-info welcome is-small">
         <div class="hero-body">

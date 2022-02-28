@@ -11,7 +11,7 @@ import ApiReplit from "@/components/ApiReplit.vue";
 <template>
   <main>
     <Hero />
-    
+    <h1>Vercel Test Change</h1>
     <ApiReplit />
     <InfoTiles />
     <Columns />
